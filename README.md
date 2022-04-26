@@ -14,13 +14,13 @@ Sales predictions
 
 ## Results
 
-#### Visual 1 Title
+### Visual 1 Title
 
-#### Visual 2 Title
+### Visual 2 Title
 
 ## Recommendations:
 
-## Limitations & Next Steps
+### Limitations & Next Steps
 
 ### For further information
 
