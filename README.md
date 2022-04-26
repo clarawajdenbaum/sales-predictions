@@ -1,7 +1,7 @@
 # Sales Predictions
 ## Predicting the sales of various objects 
 
-**Clara Wajdenbaum**:
+**Clara Wajdenbaum**
 
 ### Business problem:
 
@@ -10,18 +10,18 @@ The goal is to make predictions about future sales based on the data provided.
 ### Data:
 Sales predictions
 
-## Methods
+### Methods:
 
-## Results
+### Results:
 
-### Visual 1 Title
+**Visual 1 Title**
 
-### Visual 2 Title
+**Visual 2 Title**
 
-## Recommendations:
+### Recommendations:
 
-### Limitations & Next Steps
+### Limitations & Next Steps:
 
-### For further information
+### For further information:
 
 For any additional questions, please contact **clara.wajdenbaum@icloud.com**
