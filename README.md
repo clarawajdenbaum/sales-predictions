@@ -26,12 +26,12 @@ I have scaled the integer and float columns and I have OneHotEncode the object c
 
 ![Frequency of Item Outlet Sales](https://user-images.githubusercontent.com/101348370/167168891-04c7d262-adc3-4f42-af61-632e7500fd03.png)
 
-### Modeling Results
+### Modeling Results:
 
 The Linear Regression Model is absolutely not a model that fits our data. 
 The Regression Tree Model with a max depth of 7 has a score on the testing set of 59%.
 
-### Summary
+### Summary:
 
 The Linear Regression model doesn't work at all on our dataset as we have a negative r^2 score on the testing sets. 
 
